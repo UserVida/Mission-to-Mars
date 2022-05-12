@@ -4,7 +4,7 @@
 
 The purpose of this project was to prepare a web application that would scrape information about the planet Mars from the web and present it on a single page. 
 The web application wa adjusted to include additional images of the hemispheres of Mars and their titles. 
-Chrome Developter Tools was used to identify the HTML components while BeautifulSoup and Splinter was used to automate the scraping process.
+Chrome Developer Tools was used to identify the HTML components while BeautifulSoup and Splinter was used to automate the scraping process.
 The data was stored using MongoDB. Finally, Flask was used to create a web application to display the data. In addition, Bootstrap was used to add additional polish
 to the web application through:
 
